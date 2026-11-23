@@ -5,3 +5,4 @@
 This repository is created for learning how to use GitHub Issues.
 
 GitHub Issues helps track bugs, tasks, questions, and improvements.
+Update README and fix #1
